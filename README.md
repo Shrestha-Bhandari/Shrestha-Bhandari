@@ -1,7 +1,7 @@
 # Hi there, I'm Shrestha 👋
 
 > I'm a data science graduate student who strongly believes that technology should be shaped by empathy and driven by purpose. My work blends curiosity, impact, and a human-centric approach, whether it's building machine learning models, analyzing patterns in real estate data, or mentoring peers through complex analytics.
-> I bring hands-on experience from industry and academia, with a background in business analytics and a growing focus on ethical AI, research, and social impact. At the core, I enjoy solving problems that matter and creating data solutions that are thoughtful, scalable, and people-first.
+> I bring hands-on experience from industry and academia, with a background in business analytics and a growing focus on ML, research, and social impact. At the core, I enjoy solving problems that matter and creating data solutions that are thoughtful, scalable, and people-first.
 
 ## 🎓 Education
 - **M.S. in Data Science** - University of New Haven, CT (2023-2025)
